@@ -28,6 +28,7 @@ aliases: [/tutorials/hosting-on-gitlab/]
 * Completion of the Hugo [Quick Start][]
 * A [GitLab account](https://gitlab.com/users/sign_in)
 * A Hugo website on your local machine that you are ready to publish
+* If you are using Modules, they are localized to the vendor directory with `hugo mod vendor`
 
 ## Create .gitlab-ci.yml
 
